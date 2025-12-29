@@ -41,7 +41,22 @@ Control the snake, eat food to grow longer, and avoid hitting the walls or yours
 
 ## 🚀 How to Run the Game
 
-### 1️⃣ Install Python
-Check if Python is installed:
-```bash
-python --version
+1. Check if Python is installed:
+   ```bash
+   python --version
+
+2. Install Pygame
+   ```bash
+   pip install pygame
+
+3. Clone the Repository
+   ```bash
+   git clone https://github.com/your-username/snake-game-pygame.git
+   
+4. Navigate to Project Folder
+   ```bash
+   cd snake-game-pygame
+   
+5. Run the Game
+   ```bash
+   python snake_game.py
